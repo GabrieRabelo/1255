@@ -8,11 +8,11 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class StepDefinitions {
 
-    private LetterUtils letterUtils;
+    private Main.LetterUtils letterUtils;
 
     @Given("a letter counter")
     public void aLetterCounter() {
-        letterUtils = new LetterUtils();
+        letterUtils = new Main.LetterUtils();
     }
 
     @When("I enter the following string {string}")
