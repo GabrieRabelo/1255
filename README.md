@@ -17,11 +17,15 @@ For each test case, output a line containing the most frequently occurring lette
 ### Sample Input	
 
 3 Computers account for only 5% of the country's commercial electricity consumption.
+
 Input
+
 frequency letters
 
 ### Sample Output
 
 co
+
 inptu
+
 e
